@@ -1,6 +1,5 @@
 # 🔐 Cryptography Algorithms Implementation
 
-**Project 6 — Cybersecurity Internship | Codec Technologies**
 
 A hands-on implementation of the three pillars of modern cryptography: **AES**, **RSA**, and **SHA**, built entirely in Python with detailed explanations of every algorithm.
 
@@ -426,4 +425,4 @@ made by milan nai
 
 ## License
 
-This project is for educational purposes as part of a cybersecurity internship program.
+This project is for educational purposes as part of a cybersecurity 
